@@ -19,7 +19,7 @@ Experiments of such cognitive model were run on french lexical database and Corp
 + ![image](fig/fig5.png)
 
 <p align="center">
-  <img width="460" height="300" src=![image](fig/fig5.png)>
+  <img width="460" height="300" src="https://github.com/YiranJiang/Cognitive-Model-for-Gender-Assignment/blob/master/fig/fig7.png?raw=true">
 </p>
 
 
