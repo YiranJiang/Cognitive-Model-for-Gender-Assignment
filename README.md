@@ -18,7 +18,9 @@ Experiments of such cognitive model were run on french lexical database and Corp
 + ![image](fig/fig6.png)
 + ![image](fig/fig5.png)
 
-
+<p align="center">
+  <img width="460" height="300" src=![image](fig/fig5.png)>
+</p>
 
 
 
