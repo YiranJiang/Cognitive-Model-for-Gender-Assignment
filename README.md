@@ -14,6 +14,7 @@ Term: Spring 2018, Columbia University
 Experiments of such cognitive model were run on french lexical database and Corpus, both yield relatively high accuracy, proving the validity of the model.
 + After comparing the result, we conclude the validity of the model, and discuss the contributions and potential improve- ment of similar cognitive models.
 
++ The reproduction of our result is available by running the main.py in /doc.
 
 + Following are some of our training result: 
 + ![image](fig/fig4.png)
