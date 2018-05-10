@@ -1,10 +1,12 @@
 # A Cognitive Model for Gender Assignment of French Nouns
 
-![image](fig/fig7.png)
+<p align="center">
+  <img src="https://github.com/YiranJiang/Cognitive-Model-for-Gender-Assignment/blob/master/fig/fig7.png?raw=true">
+</p>
 
 Term: Spring 2018, Columbia University
-Student: Yiran Jiang
-Instructor: Chong Li
++ Student: Yiran Jiang
++ Instructor: Chong Li
 
 + This project paper focuses on the application of Convex Optimization tools to solve the Machine Learning problems in the field of cognitive science.
 + Unlike English, Gender is an important attribute for French Nouns. The assignment of gender as a french native speaker or those who study french as a second language reveals their cognition of the inherent structure of the language.
@@ -18,9 +20,7 @@ Experiments of such cognitive model were run on french lexical database and Corp
 + ![image](fig/fig6.png)
 + ![image](fig/fig5.png)
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/YiranJiang/Cognitive-Model-for-Gender-Assignment/blob/master/fig/fig7.png?raw=true">
-</p>
+
 
 
 
