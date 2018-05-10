@@ -1,6 +1,6 @@
 # A Cognitive Model for Gender Assignment of French Nouns
 
-![image](fig/fig7.jpg)
+![image](fig/fig7.png)
 
 Term: Spring 2018, Columbia University
 Student: Yiran Jiang
